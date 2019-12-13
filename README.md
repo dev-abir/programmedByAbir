@@ -3,4 +3,6 @@ This repo contains most of the programming projects which I have done till now. 
 
 I haven't uploaded one android project due to it's large size.
 
-I have deleted many projects from this repo on which I no longer work on, or which are not worthy of being hosted in a repo.
+I have deleted many projects from this repo on which are not worthy of being hosted in a repo.
+
+I don't want to continue development on these projects.
