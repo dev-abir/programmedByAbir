@@ -362,7 +362,7 @@ void drawCells(sf::RenderWindow* window)
         {
             if(aliveOrDead[i][j] == ALIVE)
             {
-                cells[i][j].setFillColor(sf::Color::Red);
+                cells[i][j].setFillColor(sf::Color::Black);
                 window->draw(cells[i][j]);
             }
         }
